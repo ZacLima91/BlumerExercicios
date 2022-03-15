@@ -1,0 +1,28 @@
+{
+  "name": "modulo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "type": "module",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "global-fetch": "^0.2.2",
+    "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacLima91/BlumerExercicios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacLima91/BlumerExercicios/issues"
+  },
+  "homepage": "https://github.com/ZacLima91/BlumerExercicios#readme"
+}
